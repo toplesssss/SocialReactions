@@ -41,7 +41,7 @@ Perfect for **SMP**, **Roleplay**, and **vanilla‑style** servers.
 
 ## 🔧 Installation
 
-1. Download `SocialReactions-1.0.jar` from the [Releases](https://github.com/yourusername/SocialReactions/releases) page.
+1. Download `SocialReactions-1.0.jar` from the [Releases](https://github.com/toplesssss/SocialReactions/releases) page.
 2. Place it in your server's `plugins/` folder.
 3. Restart your server.
 4. Edit `config.yml` to your liking (cooldowns, language, reputation values).
