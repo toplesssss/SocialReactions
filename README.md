@@ -82,6 +82,8 @@ sounds:
   celebrate: ENTITY_PLAYER_CHEER
   disapprove: ENTITY_PLAYER_BURP
 
+```
+
 🌍 Languages
 English – lang/en.yml
 
